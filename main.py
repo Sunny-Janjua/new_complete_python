@@ -70,11 +70,10 @@ class parant():
     def __init__(self,name):
         self.name=name
 
-    def printfunction(self,name):
-        super.__init__
-        return name
+    def printfunction(self):
+        return self.name
 
-obj=parant("sunny janjua")
+obj=parant("sunnyjanjua")
 newobj=obj.printfunction()
 
 print(obj.name)
