@@ -1,0 +1,7 @@
+Hello, Sunny! Welcome to Python file handling.
+This is an example of writing and reading files.
+
+
+
+
+database is a simple
